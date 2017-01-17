@@ -10,5 +10,6 @@
 
 ## Корисна інформація
 
-[https://github.com/google/oauth2client]oauth2client](oauth2client)
+[https://github.com/google/oauth2client/oauth2client](oauth2client)
+
 [https://github.com/joestump/python-oauth2](Python OAuth2)
