@@ -1,5 +1,7 @@
 # Зимова практика 2017р.
 
+[![Join the chat at https://gitter.im/Masters-Academy/ma-winter-practice-2017](https://badges.gitter.im/ZhuChara2004/MA-Summer-Practice-2016.svg)](https://gitter.im/Masters-Academy/ma-winter-practice-2017?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Написання OAuth2 провайдера
 
 Задача: написати додаток на мові програмування Python з використанням фреймворка Flask. Користувач реєструється в написаному
